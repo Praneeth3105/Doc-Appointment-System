@@ -98,7 +98,7 @@ git clone https://github.com/YOUR_USERNAME/Doctor-Appointment-System.git
 ### 2. Navigate to the project
 
 ```bash
-cd Doc-Appointment-System
+cd Doctor-Appointment-System
 ```
 
 ### 3. Install frontend dependencies
